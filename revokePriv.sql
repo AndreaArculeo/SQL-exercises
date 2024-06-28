@@ -1,0 +1,1 @@
+REVOKE SELECT, UPDATE ON database_name.Books TO 'martin'@'localhost';
